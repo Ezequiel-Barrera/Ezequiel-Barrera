@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hola, soy Ezequiel 👋😄
 
-<!--
-**Ezequiel-Barrera/Ezequiel-Barrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Web <a href="https://www.linkedin.com/in/ezequiel-javascript/">Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+```javascript
+const Ezequiel = {
+  pronouns: "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node, SASS, Express, MySql, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 Here are some ideas to get you started:
 
@@ -13,4 +29,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
