@@ -1,10 +1,5 @@
-### Hola, yo soy Ezequiel 👋😄
-
-
-<p><em>Web <a href="https://www.linkedin.com/in/ezequiel-javascript/">Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+## Hola, yo soy Ezequiel 👋😄 
+### Web <a href="https://www.linkedin.com/in/ezequiel-javascript/">Developer</a>
 
 
 <p align="left">
@@ -18,34 +13,41 @@
 ```javascript
 const Ezequiel = {
   pronouns: "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, SASS, Express, MySql, Docker],
+  code: [
+      Javascript, 
+      Typescript, 
+      HTML, 
+      CSS
+     ],
+  tools: [
+      React, 
+      Node, 
+      SASS, 
+      Express, 
+      MySql, 
+      Docker
+     ],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the challenge focused on react and typescript"
+  academicStudies: {
+      university: "Universidad Nacional de Hurlingham",
+      career: "Licenciatura en Informatica",
+      state: "inProgress"
+  },
+  course: {
+      institution: "CoderHouse",
+      career: "Backend",
+      state: "inProgress"
+  },
+                     
+ challenge: "finish the final project of an e-commerce application in coder house"
 }
 ```
 
 
 
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmente estoy trabajando en el proyecto final de la cursada de Backend en CoderHouse, donde estoy desarrollando una aplicación e-commerce backend.
+- 🌱 Actualmente estoy aprendiendo NodeJs, Express, Socket.io, Webpack. MySql y MongoDB.
+- 📫 Podes contactarme enviando un mail a ezequiel.abarrera@gmail.com
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
