@@ -1,12 +1,7 @@
-## Hola, yo soy Ezequiel 👋😄 
-### Web <a href="https://www.linkedin.com/in/ezequiel-javascript/">Developer</a>
+### Hola, yo soy Ezequiel 👋😄 
+#### Web <a href="https://www.linkedin.com/in/ezequiel-javascript/">Developer</a>
 
-
-<p align="left">
-<a href="https://linkedin.com/in/ezequiel-javascript" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel-javascript" height="30" width="40" /></a>
-</p>
-
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
@@ -44,6 +39,7 @@ const Ezequiel = {
 ```
 
 
+### Un poco sobre mi...
 
 - 🔭 Actualmente estoy trabajando en el proyecto final de la cursada de Backend en CoderHouse, donde estoy desarrollando una aplicación e-commerce backend.
 - 🌱 Actualmente estoy aprendiendo NodeJs, Express, Socket.io, Webpack. MySql y MongoDB.
