@@ -7,7 +7,6 @@
 
 ```javascript
 const Ezequiel = {
-  pronouns: "her",
   code: [
       Javascript, 
       Typescript, 
